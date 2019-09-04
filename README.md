@@ -183,7 +183,7 @@ online about Menstruation:
 
 To access a calendar tool, when the prompt:  
 
-"What would you like to ask appears? "
+"What would you like to ask?" appears,
 
 Type a sentence something like:  
 
