@@ -135,51 +135,56 @@ punctuations/spaces/numbers than expected. Sorry for any
 inconvenience. These are few of the most asked questions 
 online about Menstruation:  
 
-1) What is a period?  
-2) How long is typical menstrual cycle?  
-3) What is the point of getting period?     
-4) Can a womans period change?   
-5) What other way can a womans period change?   
-6) Does not ovulating makes difference?   
-7) What is considered to be normal?   
-8) What is normal amount of bleeding during my period?  
-9) When should i see a doctor?  
-10) How much period does one person has in one lifetim?  
-11) What is menstrual cycle?  
-12) What are premenstrual symptoms?  
-13) Tell me more about premenstrual symptoms?  
-14) What is normal menstrual cycle?  
-15) Is it true that a woman is only fertile for about 7 days every month?  
-16) What is ovulation?  
-17) When is the best time to get pregnant?  
-18) How to avoid unwanted pregnancy?  
-19) What happens during the typical 28 day menstrual cycle?  
-20) What is luteinizing hormone?  
-21) How does my menstrual cycle change as woman gets older?  
-22) Why should i keep track of my menstrual cycle?  
-23) When does a girl usually get her first period?  
-24) When should a girl see a doctor?  
-25) How long does a woman usually have periods?  
-26) when does menopause happen?  
-27) Does period stops during pregnancy?  
-28) What are symptoms of heavy menstrual bleeding?  
-29) How often should i change my pad or tampon?  
-30) How often should i change menstrual cup, sponge or period panties?  
-31) What is toxic shock syndrome?  
-32) Can tampons cause toxic shock syndrome?  
-33) What are symptoms of toxic shock syndrome or TSS?  
-34) How does the menstrual cycle affect other health problems?  
-35) What is menopause phase?  
-36) What causes menopause?  
-37) What is perimenopause phase?  
-38) What is progesterone hormone?  
-39) What is estrogen hormone?  
-40) Does pms change with age?  
-41) What is premenstrual dysphoric disorder or PMDD?  
-42) Which type of food to avoid during period?  
-43) What to do when i get my first period?  
-44) Will anyone know i am on my period?  
-45) Can i go swimming or play sports?  
+What is a period?        
+What is menstrual cycle?  
+How long is typical menstrual cycle?     
+Why does period happen?  
+What is the point of getting period?      
+Can a womans period change?      
+What other way can a womans period change?         
+Does not ovulating makes difference?     
+What is considered to be normal?   
+What is normal amount of bleeding during my period?        
+When should i see a doctor?       
+How much period does one person has in one lifetime?      
+What is normal menstrual cycle?   
+What are premenstrual symptoms?    
+Tell me more about premenstrual symptoms!          
+What is normal menstrual cycle?  
+Is it true that a woman is only fertile for about 7 days every month?      
+What is ovulation?   
+When is the best time to get pregnant?    
+How to avoid unwanted pregnancy?  
+What happens during the typical 28 day menstrual cycle?   
+What is luteinizing hormone?  
+How does my menstrual cycle change as woman gets older?    
+Why should i keep track of my menstrual cycle?   
+When does a girl usually get her first period?  
+When should a girl see a doctor?  
+How long does a woman usually have periods?   
+When does menopause happen?        
+Does period stops during pregnancy?      
+What are symptoms of heavy menstrual bleeding?   
+How often should i change my pad or tampon?  
+How often should i change menstrual cup, sponge or period panties?       
+What is toxic shock syndrome?  
+Can tampons cause toxic shock syndrome?  
+Are pads better than tampons?     
+What are symptoms of toxic shock syndrome or tss?          
+How does the menstrual cycle affect other health problems?         
+What is menopause phase?  
+What causes menopause?    
+What is perimenopause phase?       
+What is progesterone hormone?  
+What is estrogen hormone?          
+What is premenstrual syndrome or pms?        
+Does pms change with age?   
+What causes pms?  
+What is premenstrual dysphoric disorder or pmdd?   
+Which type of food to avoid during period?        
+What to do when i get my first period?     
+Will anyone know i am on my period?        
+Can i go swimming or play sports?      
 
 To access a calendar tool, when the prompt:  
 
