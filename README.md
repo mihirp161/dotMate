@@ -51,7 +51,7 @@ Menstrual_archive.txt, users.txt and main.cpp in that folder also.
 
 Getting Started
 ---------------
-1) Please read bullet Navigation at the bottom first.
+1) Please read "Navigation" module towards the bottom first.
 
 2) When using a compiler:  
     (a) Open a new project, upload the header files in the Header 
@@ -134,7 +134,8 @@ Offcourse, you can still make spelling mistakes, leave more
 punctuations/spaces/numbers than expected. Sorry for any 
 inconvenience. These are few of the most asked questions 
 online about Menstruation:  
-
+  
+  
 What is a period?        
 What is menstrual cycle?  
 How long is typical menstrual cycle?     
@@ -184,8 +185,9 @@ What is premenstrual dysphoric disorder or pmdd?
 Which type of food to avoid during period?        
 What to do when i get my first period?     
 Will anyone know i am on my period?        
-Can i go swimming or play sports?      
-
+Can i go swimming or play sports?       
+  
+    
 To access a calendar tool, when the prompt:  
 
 "What would you like to ask?" appears,
