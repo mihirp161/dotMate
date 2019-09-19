@@ -24,7 +24,7 @@ anyone is open to use it as they please.Then there is a
 Calendar tool, which user can users get their next period. It 
 allows prompts as well, and will guideyou accordingly. 
 
-For UML diagram and other implementation, please do check ProjectDescription.docs
+For UML diagram and other implementation, please do check ProjectDescription.docx
 
 Motivation
 -----------
