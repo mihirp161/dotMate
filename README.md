@@ -4,7 +4,7 @@ Project Name
 
 Original Author
 ---------------
-Mihir K Patel
+Mihir Patel
 
 Build Status
 ---------------
