@@ -194,6 +194,6 @@ Can i go swimming or play sports?
 
 When the prompt "What would you like to ask?" appears,
 
-Type any sentence something like:  
+Type a sentence like:  
 
 "I want a Calendar tool...." or "My partner and I planning a vacation....."
