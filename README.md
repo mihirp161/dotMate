@@ -190,10 +190,10 @@ Will anyone know i am on my period?
 Can i go swimming or play sports?       
   
     
-To access a calendar tool, when the prompt:  
+*To access a calendar tool within the program:*
 
-"What would you like to ask?" appears,
+When the prompt "What would you like to ask?" appears,
 
-Type a sentence something like:  
+Type any sentence something like:  
 
 "I want a Calendar tool...." or "My partner and I planning a vacation....."
