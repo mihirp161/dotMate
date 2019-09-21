@@ -1,10 +1,10 @@
 /*
 	Author:		Mihir K Patel
 	Purpose:	Following is a implementation file for the CalendarIO.h. This contains function defintions
-				for those in its header file. Main properties of this file are:
-					1) To do computation on the Date.
-					2) To write a .csv format calendar to the folder, which is more readable than .txt file.
-					3) Most importantly, to transfer the control from Main() using istream.
+			for those in its header file. Main properties of this file are:
+				1) To do computation on the Date.
+				2) To write a .csv format calendar to the folder, which is more readable than .txt file.
+				3) Most importantly, to transfer the control from Main() using istream.
 */
 #include "Calendar_IO.h"
 /*Counter*/
