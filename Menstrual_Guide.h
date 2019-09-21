@@ -1,11 +1,11 @@
 /*
 	Author:		Mihir K Patel
 	Purpose:	Following is a Header file for the Menstrual_Guide.cpp. This inherits a parent class named Period.h
-				This contains function protypes. Few of the main prototypes are load_information() which reads the
-				text containing info, and loads them into a map data member. Then there is, search_arhive(string) which is a
-				part 2 of the main algorithm that gets a user his search results back. Lastly, we have a friend
-				function using an overloaded istream& that allows input for data members of this class, and then a
-				pure virtual overriden ostream << that prints aesthetics of this problem.
+			This contains function protypes. Few of the main prototypes are load_information() which reads the
+			text containing info, and loads them into a map data member. Then there is, search_arhive(string) which is a
+			part 2 of the main algorithm that gets a user his search results back. Lastly, we have a friend
+			function using an overloaded istream& that allows input for data members of this class, and then a
+			pure virtual overriden ostream << that prints aesthetics of this problem.
 */
 #ifndef DOT_MATE_A_GUIDE_TO_MENSTRUATION_MENSTRUAL_GUIDE
 #define DOT_MATE_A_GUIDE_TO_MENSTRUATION_MENSTRUAL_GUIDE
