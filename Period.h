@@ -1,14 +1,14 @@
 /*
 	Author:		Mihir K Patel
 	Purpose:	Following is an Abstract parent class of CalendarIO.h, and Menstrual_Guide.h and a Header file for the Period.cpp.
-				This class provides important data  members and member functions which are mind of this OOP project.
-				Some of the immportant member functions are fix_user_string(string) which removes the numbers and punctuation marks;
-				check_choice(), checks the entry of Y or N, distance(int, int, int), a helper-recursive function which calculates the
-				minimum for array values passed in until the condition in the did_you_mean_this(string, string, size_t, size_t) function
-				return the total numbers of edits. did_you_mean_this(string, string, size_t, size_t) is the edit distace algorithm,
-				which finds the minimum distance for strings the user put in, and the string that iterator point to in map in subclass
-				Menstrual_guide.h. Lastly there is a pure virtual ostream>> operator which gives each class an ability to
-				print their own local ostream>> using Period.h's data members.
+			This class provides important data  members and member functions which are mind of this OOP project.
+			Some of the immportant member functions are fix_user_string(string) which removes the numbers and punctuation marks;
+			check_choice(), checks the entry of Y or N, distance(int, int, int), a helper-recursive function which calculates the
+			minimum for array values passed in until the condition in the did_you_mean_this(string, string, size_t, size_t) function
+			return the total numbers of edits. did_you_mean_this(string, string, size_t, size_t) is the edit distace algorithm,
+			which finds the minimum distance for strings the user put in, and the string that iterator point to in map in subclass
+			Menstrual_guide.h. Lastly there is a pure virtual ostream>> operator which gives each class an ability to
+			print their own local ostream>> using Period.h's data members.
 */
 #ifndef DOT_MATE_A_GUIDE_TO_MENSTRUATION_PERIOD
 #define DOT_MATE_A_GUIDE_TO_MENSTRUATION_PERIOD
