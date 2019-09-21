@@ -1,12 +1,12 @@
 /*
 	Author:		Mihir K. Patel (COP 3331-s)
 	Purpose:	Following program is meant to be serve as an information tool for Menstruation. The user
-				has an offline repository where he/she can find information about that. User may also
-				calculate her/his-relative's Period and get a calendar for a visual reminder.
-				This program is NOT IN ANY WAY exclusively made for particular audience, everyone is more
-				than welcome to use it!
+			has an offline repository where he/she can find information about that. User may also
+			calculate her/his-relative's Period and get a calendar for a visual reminder.
+			This program is NOT IN ANY WAY exclusively made for particular audience, everyone is more
+			than welcome to use it!
 
-				This is a Driver file, it is dependant on CalendarIO.h, and Menstrual_Guide.h
+			This is a Driver file, it is dependant on CalendarIO.h, and Menstrual_Guide.h
 */
 #include "Menstrual_Guide.h" 
 #include "Calendar_IO.h"
