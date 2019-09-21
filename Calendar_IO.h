@@ -1,11 +1,11 @@
 /*
 	Author:		Mihir K Patel
 	Purpose:	Following is a Header file for the CalendarIO.cpp. This inherits a parent class named Period.h
-				This contains function protypes. Few of the main prototypes are adjust_day_month(array, int), which
-				shifts the date to give an accurate result for the next Period. A static function
-				write_function(CalendarIO, array) which makes a CSV format calendar that reflects next Period with
-				a marker. A virtual function of overridden ostream<< that prints the results displaying date change and
-				expected date. Lastly, a friend function of istream>> that allows interaction with this class.
+			This contains function protypes. Few of the main prototypes are adjust_day_month(array, int), which
+			shifts the date to give an accurate result for the next Period. A static function
+			write_function(CalendarIO, array) which makes a CSV format calendar that reflects next Period with
+			a marker. A virtual function of overridden ostream<< that prints the results displaying date change and
+			expected date. Lastly, a friend function of istream>> that allows interaction with this class.
 */
 #ifndef DOT_MATE_A_GUIDE_TO_MENSTRUATION_CALENDERIO
 #define DOT_MATE_A_GUIDE_TO_MENSTRUATION_CALENDERIO
