@@ -1,11 +1,11 @@
 /*
 	Author:		Mihir K Patel
 	Purpose:	Following is a implementation file for the Menstrual_Guide.h. This contains function defintions
-				for those in its header file. Main properties of this file are:
-					1) To give user a string from map, when he/she asks a question.
-					2) To give user an ability to interact with whole program using statements (strings).
-					4) To load the text file into map, so search results can occur
-					5) Lastly, to display program logo, and few tips in the beginning.
+			for those in its header file. Main properties of this file are:
+				1) To give user a string from map, when he/she asks a question.
+				2) To give user an ability to interact with whole program using statements (strings).
+				4) To load the text file into map, so search results can occur
+				5) Lastly, to display program logo, and few tips in the beginning.
 */
 #include "Menstrual_Guide.h"
 /*Default constructor and a simple getter*/
