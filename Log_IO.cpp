@@ -1,11 +1,11 @@
 /*
 	Author:		Mihir K Patel
 	Purpose:	Following is a implementation file for the LogIO.h. This contains function defintions
-				for those in its header file. Main properties of this file are:
-					1) To create a log file with users names.
-					2) Take user names.
-					3) To greet the users.
-					4) To make user-specific log file
+			for those in its header file. Main properties of this file are:
+				1) To create a log file with users names.
+				2) Take user names.
+				3) To greet the users.
+				4) To make user-specific log file
 */
 #include "Log_IO.h"
 LogIO::LogIO() { /*Simple constructor*/
