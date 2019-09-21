@@ -1,8 +1,8 @@
 /*
 	Author:		Mihir K Patel
 	Purpose:	Following is a Header file for the LogIO.cpp. This is a composition class and has no inheritance.
-				Period.h is imported only to supply few stadard libraries, and ANSI global variables. Purpose of
-				this file is to get the names of the users, and to greet them back if they return.
+			Period.h is imported only to supply few stadard libraries, and ANSI global variables. Purpose of
+			this file is to get the names of the users, and to greet them back if they return.
 */
 #ifndef DOT_MATE_A_GUIDE_TO_MENSTRUATION_LOGIO
 #define DOT_MATE_A_GUIDE_TO_MENSTRUATION_LOGIO
