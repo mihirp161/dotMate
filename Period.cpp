@@ -1,11 +1,11 @@
 /*
 	Author:		Mihir K Patel
 	Purpose:	Following is an implementation file for the Period.h. This contains function defintions
-				for those in its header file. Main properties of this file are:
-					1) To apply prebuilt function of C++ to remove numbers and punctutations in a user string.
-					2) To check y-n options with a local try_catch block.
-					3) To have a helper function that uses recursion to return the min using C++ built-in function.
-					4) Finally, an algorithmn that inserts, delete, or replace a character of two strings to make them equal.
+			for those in its header file. Main properties of this file are:
+				1) To apply prebuilt function of C++ to remove numbers and punctutations in a user string.
+				2) To check y-n options with a local try_catch block.
+				3) To have a helper function that uses recursion to return the min using C++ built-in function.
+				4) Finally, an algorithmn that inserts, delete, or replace a character of two strings to make them equal.
 */
 #include "Period.h"
 /*Default constructor for Period class*/
