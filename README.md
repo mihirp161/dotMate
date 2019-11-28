@@ -8,7 +8,7 @@ Mihir Patel
 
 Build Status
 ---------------
-1) Current: Experimental
+1) Current: Halted
 2) OS:	Windows
 
 Project Description
