@@ -121,7 +121,7 @@ std::ostream& Menstrual_Guide::print_out(std::ostream& out) const {
 		<< "[5] Avoid excessive spelling errors. Double checking will lead to better result.\n"
 		<< "[6] Please use only words/letters for your queries.\n"
 		<< "[7] Put punctuations only where they are necessary.\n"
-		<< "[8] To report crashes, or any errors, please send them at mkpatel@mail.usf.edu\n\n"
+		<< "[8] To report crashes, or any errors, please send them at mihirp161@gmail.com\n\n"
 		<< TBOLD << "Thanks in advance and I hope you enjoy using .MATE today!\n" << TOFF << std::endl;
 
 	return out;
