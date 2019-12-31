@@ -46,11 +46,11 @@ int main()
 			goto beginning; /*Jumps in the beginning to allow circular interaction*/
 		}
 		std::cout << log_io;
-		std::cout << TBOLD << "\nLeave feedback/comments to mkpatel@mail.usf.edu for any improvements :)\n"
+		std::cout << TBOLD << "\nLeave feedback/comments to mihirp161@gmail.com for any improvements :)\n"
 			<< "For collaboration use the email above. If you would like to reuse any code, feel free to do so!\n" << TOFF << std::endl;
 	}
 	catch (...) { 
-		std::cerr << "Please report this crash to mkpatel@mail.usf.edu. In the email do tell what have you done "
+		std::cerr << "Please report this crash to to mihirp161@gmail.com In the email do tell what have you done "
 			<< "prior to the program crash. Sorry for this inconvenience.\n";
 		exit(0);
 	}
