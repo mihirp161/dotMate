@@ -2,7 +2,7 @@ Project Name
 --------------
 .MATE- A Guide to Menstruation
 
-Original Author
+Author
 ---------------
 Mihir Patel
 
@@ -106,13 +106,6 @@ When you're done & want close the program, you can simply
 close it,or can type, "Exit the program! Bye!" And the
 program will close. 
 
-Contribute
-------------
-Please use github for collaboration and 
-contact. Feedbacks, or comments (angry or jolly) are always
-important to me.
-
-
 Code Style
 ----------
 Using standard hanging indentation of C/C++
@@ -121,11 +114,13 @@ Special Thanks
 --------------
 Mr. Denis Laeskar, PhD Candidate, USF  
 Dr. Tempestt Neal, PhD, USF  
-Mr. Mohamed Ebraheem, Undergraduate, USF  
     
 License
 -----------
 Open Source
+
+Feedbacks, or comments (angry or jolly) are always
+important to me.
 
 Navigation
 -----------
