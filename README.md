@@ -117,7 +117,7 @@ Dr. Tempestt Neal, PhD, USF
     
 License
 -----------
-Open Source
+MIT
 
 Feedbacks, or comments (angry or jolly) are always
 important to me.
