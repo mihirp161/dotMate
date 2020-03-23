@@ -6,6 +6,10 @@ Author
 ---------------
 Mihir Patel
 
+blog
+-----
+[Read my blog here!](https://opendatasurgeon.github.io/dotmate/)
+
 Build Status
 ---------------
 1) Current: Halted
