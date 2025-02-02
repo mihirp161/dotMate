@@ -8,7 +8,7 @@ Mihir Patel
 
 blog
 -----
-[Read my blog here!](https://opendatasurgeon.github.io/dotmate/)
+[Read my blog here!](https://mihirp161.github.io/dotmate/)
 
 Build Status
 ---------------
