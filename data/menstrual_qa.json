@@ -1,0 +1,329 @@
+{
+  "schema_version": "2026.1",
+  "entry_count": 46,
+  "note": "Rewritten in direct address, re-verified against current sources (ACOG, Office on Women's Health, ASRM, CDC) as of Sept 2026. The original 50 questions are all still reachable (via 'question' or 'aliases'), but 4 that were exact duplicates or answered by a near-identical question got merged into one entry each rather than kept separate: the two 'what is menstrual cycle' entries: -> what-is-the-menstrual-cycle; the two premenstrual-symptom entries -> premenstrual-symptoms; 'what is normal menstrual cycle' -> typical-cycle-length; 'what is considered to be normal' split across typical-cycle-length (cycle length) and normal-bleeding-amount (volume).",
+  "entries": [
+    {
+      "id": "what-is-a-period",
+      "question": "What is a period?",
+      "aliases": ["what is menstruation", "define period"],
+      "answer": "A period is the monthly shedding of blood and tissue from the lining of your uterus. It happens as part of the menstrual cycle — your body's monthly process of preparing for a possible pregnancy. If that doesn't happen, hormone levels drop and the built-up lining is released through the vagina.",
+      "sources": [{"name": "Office on Women's Health", "url": "https://www.womenshealth.gov/menstrual-cycle/your-menstrual-cycle"}]
+    },
+    {
+      "id": "what-is-the-menstrual-cycle",
+      "question": "What is the menstrual cycle?",
+      "aliases": ["what is menstrual cycle", "define menstrual cycle"],
+      "answer": "Your menstrual cycle is the monthly hormonal cycle your body goes through to prepare for a possible pregnancy. It's counted from the first day of one period to the first day of the next, and it's more than just the bleeding — hormone changes happen throughout, causing effects from cervical fluid changes to cramps. Each cycle, the uterine lining thickens and an ovary releases an egg (ovulation); if the egg isn't fertilized, that lining sheds — that's your period.",
+      "sources": [{"name": "Office on Women's Health", "url": "https://www.womenshealth.gov/menstrual-cycle/your-menstrual-cycle"}]
+    },
+    {
+      "id": "typical-cycle-length",
+      "question": "How long is a typical menstrual cycle?",
+      "aliases": ["what is normal menstrual cycle", "what is considered normal cycle length", "how long should my period be"],
+      "answer": "The average is about 28 days, but there's a wide normal range: 21–35 days for adults, and up to 21–45 days in the first couple of years after a first period, while things are still settling into a rhythm. Consistency matters more than hitting a specific number — a cycle that varies by more than about a week month to month, or is persistently outside those ranges, is worth mentioning to a doctor.",
+      "sources": [{"name": "ACOG Committee Opinion No. 651", "url": "https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2015/12/menstruation-in-girls-and-adolescents-using-the-menstrual-cycle-as-a-vital-sign"}]
+    },
+    {
+      "id": "why-period-happens",
+      "question": "Why does a period happen?",
+      "aliases": ["whats the purpose of a period"],
+      "answer": "A period releases the uterine lining that built up to support a possible pregnancy. It happens when the egg released that cycle isn't fertilized or doesn't implant, so the lining that thickened to receive it isn't needed and sheds instead.",
+      "sources": [{"name": "Office on Women's Health", "url": "https://www.womenshealth.gov"}]
+    },
+    {
+      "id": "point-of-a-period",
+      "question": "What's the point of getting a period?",
+      "aliases": ["why do i even get a period"],
+      "answer": "It's a side effect of the hormonal cycle that makes pregnancy possible. Hormones from the pituitary gland trigger an egg to be released, and at the same time cause the uterine lining to thicken — like a cushioned bed ready for a fertilized egg. A period is that lining being cleared out when it isn't needed that month.",
+      "sources": [{"name": "Office on Women's Health", "url": "https://www.womenshealth.gov"}]
+    },
+    {
+      "id": "can-period-change",
+      "question": "Can your period change over time?",
+      "aliases": ["can a womans period change", "does period change over time"],
+      "answer": "Yes. It often fluctuates for a while after it first starts, then tends to settle into a fairly consistent length and flow after a few years — though occasional changes are still normal, since flow and timing depend on hormones that naturally fluctuate.",
+      "sources": []
+    },
+    {
+      "id": "period-change-causes",
+      "question": "What can cause your period to change?",
+      "aliases": ["what other way can a womans period change", "why did my period change"],
+      "answer": "Temporary changes are often caused by stress, intense exercise, changes in diet or weight, travel, illness, or emergency contraception. Most resolve on their own within a cycle or two; a change that sticks around is worth mentioning to a doctor.",
+      "sources": [{"name": "Office on Women's Health", "url": "https://www.womenshealth.gov"}]
+    },
+    {
+      "id": "anovulation",
+      "question": "Does it matter if you don't ovulate that month?",
+      "aliases": ["does not ovulating makes difference", "what happens if i dont ovulate"],
+      "answer": "Yes — a cycle without ovulation (anovulation) can look different: you might skip a period, or it might arrive later than usual and be heavier, lighter, shorter, or longer than normal. It's common during adolescence and the approach to menopause, and it's the most common reason for an occasional missed or unusually heavy period.",
+      "sources": [{"name": "Office on Women's Health", "url": "https://www.womenshealth.gov"}]
+    },
+    {
+      "id": "normal-bleeding-amount",
+      "question": "What's a normal amount of bleeding during your period?",
+      "aliases": ["what is normal amount of bleeding during my period", "how much blood do you lose on your period", "what is considered to be normal"],
+      "answer": "On average, people lose about 2–3 tablespoons (roughly 30–40 mL) of blood and tissue per period. What's normal for you may not match someone else, and your own flow can vary month to month. Doctors typically call bleeding 'heavy' above about 80 mL a cycle — see the heavy-bleeding question for what that tends to look like in practice.",
+      "sources": [{"name": "Office on Women's Health", "url": "https://www.womenshealth.gov"}]
+    },
+    {
+      "id": "when-to-see-doctor",
+      "question": "When should you see a doctor about your period?",
+      "aliases": ["when should i see a doctor", "when is a period not normal"],
+      "answer": "Worth a visit if bleeding is heavy or painful enough to disrupt your day-to-day life, if your cycle is consistently outside the 21–35 day range, if you notice unusually large clots (especially on your heaviest days), or if bleeding lasts longer than about 8 days. A gradual change in the color of your flow through a period is normal — darker shades are common when flow is lighter.",
+      "sources": [{"name": "Office on Women's Health", "url": "https://www.womenshealth.gov"}]
+    },
+    {
+      "id": "lifetime-periods",
+      "question": "How many periods does someone have in a lifetime?",
+      "aliases": ["how much period does one person has in one lifetime", "how many periods in a lifetime"],
+      "answer": "It's commonly estimated at around 450 periods over roughly 35–40 reproductive years — though pregnancies, breastfeeding, birth control, and individual cycle length all shift that number for any one person.",
+      "sources": []
+    },
+    {
+      "id": "premenstrual-symptoms",
+      "question": "What are premenstrual symptoms?",
+      "aliases": ["what are premenstrual symptoms", "tell me more about premenstrual symptoms", "pms symptoms list"],
+      "answer": "Physical and emotional changes that show up in the days before a period starts — broader than the pop-culture 'mood swings and chocolate cravings' shorthand. Commonly reported physical symptoms include cramps, breast tenderness, bloating, acne, headaches, and fatigue; emotional symptoms vary a lot from person to person, from barely noticeable to genuinely disruptive. Symptoms severe enough to interfere with daily life are worth discussing with a doctor rather than just pushing through.",
+      "sources": [{"name": "Office on Women's Health", "url": "https://www.womenshealth.gov"}]
+    },
+    {
+      "id": "fertile-window",
+      "question": "How many days a month are you actually fertile?",
+      "aliases": ["is it true that a woman is only fertile for about 7 days every month", "how long is the fertile window"],
+      "answer": "The fertile window is about 6 days: the 5 days leading up to ovulation, plus the day of ovulation itself. That's because sperm can survive in the body for up to about 5 days, while an egg only survives around 24 hours after being released.",
+      "sources": [{"name": "American Society for Reproductive Medicine (ASRM)", "url": "https://www.asrm.org"}]
+    },
+    {
+      "id": "what-is-ovulation",
+      "question": "What is ovulation?",
+      "aliases": [],
+      "answer": "Ovulation is when a mature egg is released from an ovary. Earlier in the cycle, several fluid-filled follicles — each holding an immature egg — develop until one becomes dominant; that follicle's rising estrogen triggers a surge in luteinizing hormone (LH), which causes it to rupture and release the egg.",
+      "sources": [{"name": "Office on Women's Health", "url": "https://www.womenshealth.gov"}]
+    },
+    {
+      "id": "best-time-to-conceive",
+      "question": "When is the best time to try to get pregnant?",
+      "aliases": ["best days to conceive"],
+      "answer": "Chances are highest in the two to three days leading up to and including ovulation, within the roughly 6-day fertile window. Cycle length and ovulation timing vary person to person and cycle to cycle, so tracking your own signs (or using ovulation tests) tends to be more reliable than assuming a fixed day.",
+      "sources": [{"name": "American Society for Reproductive Medicine (ASRM)", "url": "https://www.asrm.org"}]
+    },
+    {
+      "id": "avoiding-pregnancy",
+      "question": "How can you avoid an unwanted pregnancy?",
+      "aliases": ["how to avoid unwanted pregnancy", "birth control options", "contraception options"],
+      "answer": "There's a range of options, and the right one depends on your health and preferences — worth a conversation with a doctor rather than a one-size-fits-all answer. Broad categories: barrier methods (condoms, diaphragms); hormonal methods (the pill, patch, ring, or shot); long-acting options (hormonal or copper IUDs, the implant); permanent options (tubal ligation, vasectomy); and emergency contraception, for after unprotected sex. Used consistently and correctly, condoms are also the main option that helps protect against STIs, which most other methods don't.",
+      "sources": [{"name": "Office on Women's Health", "url": "https://www.womenshealth.gov"}]
+    },
+    {
+      "id": "cycle-day-by-day",
+      "question": "What happens during a typical 28-day cycle, day by day?",
+      "aliases": [],
+      "answer": "As a rough illustration (few cycles match this exactly): Days 1–5, your period happens as the old lining sheds, while new follicles start developing. Days 5–13, one dominant follicle grows and estrogen rises, thickening the uterine lining. Around day 14, a surge in luteinizing hormone triggers ovulation. Days 15–28, the egg travels toward the uterus; if it isn't fertilized, estrogen and progesterone drop, triggering the next period and starting the cycle over.",
+      "sources": [{"name": "Office on Women's Health", "url": "https://www.womenshealth.gov/menstrual-cycle/your-menstrual-cycle"}]
+    },
+    {
+      "id": "luteinizing-hormone",
+      "question": "What is luteinizing hormone (LH)?",
+      "aliases": [],
+      "answer": "LH is a hormone released by the pituitary gland that surges midway through the cycle and triggers the ovary to release an egg — that surge is what ovulation predictor kits actually detect.",
+      "sources": [{"name": "Office on Women's Health", "url": "https://www.womenshealth.gov"}]
+    },
+    {
+      "id": "cycle-changes-with-age",
+      "question": "How does your cycle change as you get older?",
+      "aliases": [],
+      "answer": "Periods are often heavier in your teens and tend to get lighter through your 20s and 30s, which is normal. Cycles longer than 30 days are common in the first couple of years after a first period and usually settle within about three years. Through your 20s and 30s, cycles are typically regular, in the 21–35 day range; in your 40s, as your body starts the transition toward menopause, cycles can become irregular — sometimes skipping a month or two, or changing in length and flow.",
+      "sources": [{"name": "Office on Women's Health", "url": "https://www.womenshealth.gov"}]
+    },
+    {
+      "id": "why-track-your-cycle",
+      "question": "Why should you track your menstrual cycle?",
+      "aliases": [],
+      "answer": "If your cycle is regular, tracking helps you anticipate ovulation, your most fertile days, and your next period. If it's irregular, a record makes the pattern much easier to describe to a doctor. Either way, tracking symptoms like pain or heavy bleeding that interfere with normal activities helps you and a doctor figure out what's going on — that kind of disruption isn't something you just have to live with.",
+      "sources": [{"name": "Office on Women's Health", "url": "https://www.womenshealth.gov"}]
+    },
+    {
+      "id": "first-period-age",
+      "question": "When does someone usually get their first period?",
+      "aliases": ["when does a girl usually get her first period", "average age for first period"],
+      "answer": "Typically between about 8 and 15, with most people starting around 12–13 — usually about two years after breasts start developing. There's a genetic link, too: when your mother got her first period is a rough predictor of your own timing.",
+      "sources": [{"name": "ACOG Committee Opinion No. 651", "url": "https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2015/12/menstruation-in-girls-and-adolescents-using-the-menstrual-cycle-as-a-vital-sign"}]
+    },
+    {
+      "id": "first-period-see-doctor",
+      "question": "When should you see a doctor about a first period?",
+      "aliases": ["when should a girl see a doctor"],
+      "answer": "Worth checking in with a doctor if a period starts before age 8, hasn't started by age 15, or hasn't started within about three years of breast development beginning.",
+      "sources": [{"name": "Office on Women's Health", "url": "https://www.womenshealth.gov"}]
+    },
+    {
+      "id": "how-long-periods-last",
+      "question": "How long does someone typically have periods for?",
+      "aliases": [],
+      "answer": "On average, around 35–40 years — from the first period through menopause. Perimenopause, the transition into menopause, can last a few years on its own, during which periods often become less regular before stopping altogether.",
+      "sources": [{"name": "Office on Women's Health", "url": "https://www.womenshealth.gov"}]
+    },
+    {
+      "id": "menopause-timing",
+      "question": "When does menopause happen?",
+      "aliases": ["average age of menopause"],
+      "answer": "Menopause is confirmed once you've gone 12 months in a row without a period. For most people that happens between 45 and 55, with about 51 as the commonly cited average age in the US.",
+      "sources": [{"name": "Office on Women's Health", "url": "https://www.womenshealth.gov"}]
+    },
+    {
+      "id": "period-during-pregnancy",
+      "question": "Does your period stop during pregnancy?",
+      "aliases": [],
+      "answer": "Yes — periods stop during pregnancy, and if you breastfeed afterward, they may not return right away.",
+      "sources": [{"name": "Office on Women's Health", "url": "https://www.womenshealth.gov"}]
+    },
+    {
+      "id": "heavy-bleeding-symptoms",
+      "question": "What are the symptoms of heavy menstrual bleeding?",
+      "aliases": [],
+      "answer": "Signs include soaking through a pad or tampon every one to two hours for several hours in a row, passing clots larger than a quarter, or bleeding that lasts longer than about 8 days. Any of these are worth bringing up with a doctor — heavy bleeding over time can lead to anemia, and it's treatable.",
+      "sources": [{"name": "Office on Women's Health", "url": "https://www.womenshealth.gov"}]
+    },
+    {
+      "id": "pad-tampon-change-frequency",
+      "question": "How often should you change a pad or tampon?",
+      "aliases": [],
+      "answer": "Follow the instructions on the product, and change it before it's fully soaked. Most people change pads every few hours; tampons should be changed roughly every 4–8 hours and never left in longer than 8, since leaving one in longer raises the risk of toxic shock syndrome.",
+      "sources": [{"name": "Office on Women's Health", "url": "https://www.womenshealth.gov"}, {"name": "CDC", "url": "https://www.cdc.gov"}]
+    },
+    {
+      "id": "cup-sponge-panties-change-frequency",
+      "question": "How often should you change a menstrual cup, sponge, or period panties?",
+      "aliases": [],
+      "answer": "Follow the instructions that came with the product. Menstrual cups are typically fine for up to about 12 hours between rinses; sponges should come out within about 24–30 hours. Period panties usually last about a day, depending on the style and your flow.",
+      "sources": [{"name": "Office on Women's Health", "url": "https://www.womenshealth.gov"}]
+    },
+    {
+      "id": "what-is-tss",
+      "question": "What is toxic shock syndrome?",
+      "aliases": ["what is tss"],
+      "answer": "TSS is a rare but serious illness caused by toxins from certain bacteria — most often Staphylococcus aureus (staph), occasionally group A strep. It can affect anyone, but it's best known for its association with tampon use.",
+      "sources": [{"name": "CDC", "url": "https://www.cdc.gov"}]
+    },
+    {
+      "id": "tampons-and-tss",
+      "question": "Can tampons cause toxic shock syndrome?",
+      "aliases": [],
+      "answer": "Tampons don't cause TSS on their own, but using one more absorbent than you need, or leaving one in too long, raises the risk. A specific superabsorbent tampon brand was linked to a spike in cases and pulled from the market in 1980; today's tampons are made differently, and TSS from tampon use is rare. Cups, sponges, and diaphragms carry a similar risk if left in too long.",
+      "sources": [{"name": "CDC", "url": "https://www.cdc.gov"}]
+    },
+    {
+      "id": "pads-vs-tampons",
+      "question": "Are pads safer than tampons?",
+      "aliases": ["are pads better than tampons"],
+      "answer": "Pads aren't associated with toxic shock syndrome the way tampons are, but they can still raise the risk of other infections if left on too long. Which product is right for you is mostly about comfort, flow, and lifestyle rather than one being objectively 'better.'",
+      "sources": [{"name": "Office on Women's Health", "url": "https://www.womenshealth.gov"}]
+    },
+    {
+      "id": "tss-symptoms",
+      "question": "What are the symptoms of toxic shock syndrome?",
+      "aliases": [],
+      "answer": "Symptoms come on suddenly and get worse fast: a high fever, low blood pressure, vomiting or diarrhea, a rash that looks like sunburn, muscle aches, headache, and confusion. TSS is a medical emergency — if you notice these symptoms, especially while using a tampon, cup, or similar product, remove it and get medical care right away.",
+      "sources": [{"name": "CDC", "url": "https://www.cdc.gov"}]
+    },
+    {
+      "id": "cycle-and-other-conditions",
+      "question": "How does your menstrual cycle affect other health conditions?",
+      "aliases": [],
+      "answer": "Shifting hormone levels through the cycle can worsen other conditions for some people — including migraines, asthma, irritable bowel syndrome, mood or anxiety symptoms, and bladder pain. A clear pattern between your cycle and another health issue is worth mentioning to whichever doctor manages that condition.",
+      "sources": [{"name": "Office on Women's Health", "url": "https://www.womenshealth.gov"}]
+    },
+    {
+      "id": "what-is-menopause",
+      "question": "What is menopause?",
+      "aliases": [],
+      "answer": "Menopause is a normal, natural stage everyone with a menstrual cycle eventually goes through — it marks the end of your reproductive years and is confirmed once you've gone 12 months without a period.",
+      "sources": [{"name": "Office on Women's Health", "url": "https://www.womenshealth.gov"}]
+    },
+    {
+      "id": "menopause-cause",
+      "question": "What causes menopause?",
+      "aliases": [],
+      "answer": "Menopause happens when your ovaries stop releasing eggs and estrogen production drops off, which is what brings menstruation to an end.",
+      "sources": [{"name": "Office on Women's Health", "url": "https://www.womenshealth.gov"}]
+    },
+    {
+      "id": "what-is-perimenopause",
+      "question": "What is perimenopause?",
+      "aliases": [],
+      "answer": "Perimenopause is the transition leading up to menopause, often starting several years earlier, as the ovaries gradually produce less estrogen and cycles become less predictable.",
+      "sources": [{"name": "Office on Women's Health", "url": "https://www.womenshealth.gov"}]
+    },
+    {
+      "id": "progesterone",
+      "question": "What is progesterone?",
+      "aliases": ["what is progesterone hormone"],
+      "answer": "Progesterone is a hormone involved in regulating the menstrual cycle and supporting pregnancy — it rises after ovulation to help prepare and maintain the uterine lining.",
+      "sources": [{"name": "Office on Women's Health", "url": "https://www.womenshealth.gov"}]
+    },
+    {
+      "id": "estrogen",
+      "question": "What is estrogen?",
+      "aliases": ["what is estrogen hormone"],
+      "answer": "Estrogen is the primary hormone driving the menstrual cycle — it's responsible for developing and regulating the reproductive system, including thickening the uterine lining earlier in each cycle.",
+      "sources": [{"name": "Office on Women's Health", "url": "https://www.womenshealth.gov"}]
+    },
+    {
+      "id": "what-is-pms",
+      "question": "What is PMS (premenstrual syndrome)?",
+      "aliases": [],
+      "answer": "PMS is a combination of physical and emotional symptoms many people experience between ovulation and the start of their period. How much it affects daily life varies enormously from person to person and cycle to cycle.",
+      "sources": [{"name": "Office on Women's Health", "url": "https://www.womenshealth.gov"}]
+    },
+    {
+      "id": "pms-and-age",
+      "question": "Does PMS change as you get older?",
+      "aliases": [],
+      "answer": "It can — some people notice PMS symptoms intensify in their late 30s and 40s, as their body starts the transition toward menopause (perimenopause).",
+      "sources": [{"name": "Office on Women's Health", "url": "https://www.womenshealth.gov"}]
+    },
+    {
+      "id": "pms-cause",
+      "question": "What causes PMS?",
+      "aliases": [],
+      "answer": "The exact cause isn't fully understood, but shifting hormone levels across the cycle are believed to play the main role.",
+      "sources": [{"name": "Office on Women's Health", "url": "https://www.womenshealth.gov"}]
+    },
+    {
+      "id": "what-is-pmdd",
+      "question": "What is PMDD (premenstrual dysphoric disorder)?",
+      "aliases": [],
+      "answer": "PMDD is a more severe, clinically recognized form of PMS that shows up in the one to two weeks before a period, as hormone levels fall after ovulation. It causes more intense symptoms than typical PMS — including significant depression, irritability, and tension — and is often treatable with a doctor's help, through options like therapy or medication.",
+      "sources": [{"name": "Office on Women's Health", "url": "https://www.womenshealth.gov"}]
+    },
+    {
+      "id": "food-during-period",
+      "question": "Are there foods worth avoiding during your period?",
+      "aliases": [],
+      "answer": "There's no strict list backed by strong evidence, but some people find that cutting back on excess salt, sugar, caffeine, and heavily processed or fried food eases bloating and mood swings, while leaning on fruit, vegetables, and iron-rich foods feels better. Worth experimenting with what actually works for your body rather than following a rigid rule.",
+      "sources": []
+    },
+    {
+      "id": "first-period-what-to-do",
+      "question": "What should you do when you get your first period?",
+      "aliases": [],
+      "answer": "Don't worry — it's a completely normal part of growing up. Tell a parent, older sibling, friend, or another trusted adult; they can help you get the products and information you need to feel prepared.",
+      "sources": []
+    },
+    {
+      "id": "will-people-know",
+      "question": "Will anyone know you're on your period?",
+      "aliases": [],
+      "answer": "Not unless you tell them. A well-fitted menstrual product keeps things discreet, and there's genuinely nothing to feel ashamed of — if you're ever worried, it's okay to ask a friend or family member for help.",
+      "sources": []
+    },
+    {
+      "id": "swimming-and-sports",
+      "question": "Can you go swimming or play sports on your period?",
+      "aliases": [],
+      "answer": "Yes — periods don't have to put activity on hold. Tampons, menstrual cups, and period-proof swimwear all let you swim and play sports as usual; it's mostly about picking whichever product fits your comfort and flow that day.",
+      "sources": []
+    }
+  ]
+}

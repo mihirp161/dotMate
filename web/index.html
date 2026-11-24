@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>dotMate: a menstrual health guide</title>
+<meta name="description" content="Ask about periods and menstrual health in your own words. A C++20 program compiled to WebAssembly that runs entirely in your browser.">
+<link rel="icon" href="data:,">
+<link rel="stylesheet" href="vendor/xterm/xterm.css">
+<script src="js/embed.js"></script>
+<style>
+  :root {
+    color-scheme: light dark;
+    --page: #eee9f1; --ink: #2b2033; --muted: #5a4c66; --line: #d6cbe0; --focus: #8a4f00;
+    --serif: "Iowan Old Style", "Palatino Linotype", Palatino, Georgia, serif;
+    --mono: ui-monospace, "Cascadia Mono", "SF Mono", Menlo, Consolas, "Liberation Mono", monospace;
+    /* The terminal stays plum in both colour schemes. */
+    --term-bg: #261b30; --term-bar: #2f2339; --term-fg: #f2e6dd; --term-dim: #a897b4;
+    --accent: #f0c35b; --ansi-green: #a8d5a2; --ansi-yellow: #f0c35b; --ansi-cyan: #8fd1cc; --ansi-red: #f09a8f;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root { --page: #18111e; --ink: #efe6ec; --muted: #b3a5bd; --line: #3a2c47; --focus: #f0c35b; }
+  }
+  body { margin: 0; background: var(--page); color: var(--ink); font: 1.0625rem/1.6 var(--serif); }
+  main { max-width: 46rem; margin: 0 auto; padding: clamp(1.25rem, 5vw, 3.5rem) 1.25rem 3rem; }
+  h1 { margin: 0 0 .75rem; font: 600 clamp(2.4rem, 7vw, 3.6rem)/1.05 var(--serif); letter-spacing: -.015em; }
+  .lede { max-width: 36rem; margin: 0 0 1.75rem; font-size: 1.2rem; }
+  kbd { padding: 0 .3em; border: 1px solid var(--line); border-radius: 4px; font: .9em var(--mono); }
+  .window { overflow: hidden; border: 1px solid var(--line); border-radius: 10px; background: var(--term-bg); }
+  .window:focus-within { outline: 2px solid var(--focus); outline-offset: 3px; }
+  .bar { padding: .45rem .9rem; background: var(--term-bar); color: var(--term-dim); font: .8rem var(--mono); }
+  .screen { padding: .7rem .5rem .7rem .9rem; }
+  #terminal { height: clamp(22rem, 60vh, 34rem); }
+  .note { max-width: 38rem; margin: 1.1rem 0 0; color: var(--muted); font-size: .95rem; }
+  #load-error { color: var(--ink); font-weight: 600; }
+  /* Inside an iframe: terminal only, filling the frame. */
+  .embedded body { background: var(--term-bg); }
+  .embedded main { max-width: none; padding: 0; }
+  .embedded h1, .embedded .lede, .embedded p.note:not(#load-error) { display: none; }
+  .embedded .window { border: 0; border-radius: 0; }
+  .embedded .window:focus-within { outline-offset: -2px; }
+  .embedded #terminal { height: calc(100vh - 3.5rem); min-height: 8rem; }
+  .embedded #load-error { margin: 1rem; color: var(--term-fg); }
+</style>
+</head>
+<body>
+<main>
+  <h1>dotMate</h1>
+  <p class="lede">Ask about periods and menstrual health in your own words, typos included, or type <kbd>calendar</kbd> to estimate your next period.</p>
+
+  <section class="window" aria-label="dotMate terminal">
+    <div class="bar">dotmate, a C++20 program running here as WebAssembly</div>
+    <div class="screen"><div id="terminal"></div></div>
+  </section>
+  <p id="load-error" class="note" role="alert" hidden></p>
+
+  <p class="note">This is the real C++ program, compiled to WebAssembly. It runs entirely in your browser and nothing you type is sent anywhere. If you choose to be remembered, only your name and a scrambled copy of it are kept, in this browser's local storage.</p>
+  <p class="note">Answers come from a fixed set of reviewed, sourced entries rather than a chatbot, so it can't make things up, but it also can't answer everything. For education only, not medical advice. If something worries you, talk to a doctor.</p>
+  <noscript><p class="note">This demo needs JavaScript and WebAssembly.</p></noscript>
+</main>
+<script type="module" src="js/main.mjs"></script>
+</body>
+</html>

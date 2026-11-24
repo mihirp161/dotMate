@@ -30,3 +30,12 @@
 *.exe
 *.out
 *.app
+
+#Other
+build/
+build-wasm/
+returning_users.json
+period_calendar.csv
+.cache/
+compile_commands.json
+node_modules/
